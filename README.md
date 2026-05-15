@@ -34,7 +34,7 @@ GramaKhata/
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/GramaKhata.git
+git clone https://github.com/sce22ec091-hub/GramaKhata_Export.git
 
 2. Open the project in Android Studio.
 
@@ -73,6 +73,10 @@ _<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/u
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/0345dc2d-7d7b-4c67-8e79-98a3cf3fcd6d" />
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/44ebb3e5-8715-44ff-9961-2ef4262874b5" />
 <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/07d566eb-bbce-440e-8f7f-4cf114d9ebb4" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/c2e56a18-eea9-4687-911c-71b814692651" />
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/494bb731-6370-4fa6-9b9a-93fcb373856d" />
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/5e0a820e-6b27-4827-8644-98c9b89ca19e" />
+
 
 ## Future Enhancements
 
